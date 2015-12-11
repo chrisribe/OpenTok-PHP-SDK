@@ -1,5 +1,4 @@
 *.DS_Store
-opentok.phar
 vendor/
 phpunit.xml
 sample/HelloWorld/vendor/
